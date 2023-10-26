@@ -165,9 +165,7 @@ button img{
 .box-serviços p {
     
     border-radius: 15px ;
-    box-shadow: 9px 10px 5px 0px rgba(0,0,0,0.33);
--webkit-box-shadow: 9px 10px 5px 0px rgba(0,0,0,0.33);
--moz-box-shadow: 9px 10px 5px 0px rgba(0,0,0,0.33);
+   
 }
 .box-serviços strong{
     font-family: linux;

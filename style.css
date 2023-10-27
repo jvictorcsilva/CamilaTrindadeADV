@@ -41,6 +41,9 @@ body {
     font-size: 18px;
     
 }
+.cabeçalho-menu img {
+    width: 32px;
+}
 
 
 .conteudo{
@@ -184,3 +187,10 @@ button img{
     justify-content: center;
     height: 72px;
      }
+.autoria {
+    font-family: 'Noto Sans', sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: white;
+  
+}

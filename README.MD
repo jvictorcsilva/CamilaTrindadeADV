@@ -16,7 +16,7 @@ Landing Page profissional. <br/>
   <img alt="projeto Personal Links" src="./.github/1scs.png" width="100%">
 </p>
 <p align="center">
-  <img alt="projeto Personal Links" src="./.github/1scs.png" width="100%">
+  <img alt="projeto Personal Links" src="./.github/2scs.png" width="100%">
 </p>
 ## 🚀 Tecnologias
 
